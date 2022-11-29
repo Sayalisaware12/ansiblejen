@@ -1,0 +1,5 @@
+[apache]
+20.232.171.32
+
+ansible_user=root
+ansible_password=sayali
