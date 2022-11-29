@@ -1,5 +1,7 @@
 [apache]
 20.232.171.32
-
+ 
+[apache:vars]
 ansible_user=root
 ansible_password=sayali
+
